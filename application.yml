@@ -1,5 +1,5 @@
 info:
-  description: Sergey
+  description: Spring Cloud
   url: https://github.com/spring-cloud-samples
 eureka:
   client:
