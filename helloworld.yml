@@ -1,4 +1,4 @@
 ---
 logging:
   level:
-    com.example: DEBUG
+    com.example: INFO
