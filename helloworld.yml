@@ -1,6 +1,6 @@
 ---
 logging:
   level:
-    com.example: DEBUG
+    com.example: ERROR
 some:
   name: INFO
