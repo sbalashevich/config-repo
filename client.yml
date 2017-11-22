@@ -1,6 +1,6 @@
 ---
 remote:
-	cpu:
-		intensive:
-			service:
-				url: http://server-123.mybluemix.net
+  cpu:
+    intensive:
+      service:
+        url: http://server-123.mybluemix.net
