@@ -1,1 +1,6 @@
-remote.cpu.intensive.service.url=http://server-123.mybluemix.net
+---
+remote:
+	cpu:
+		intensive:
+			service:
+				url: http://server-123.mybluemix.net
