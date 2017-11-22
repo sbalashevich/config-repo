@@ -4,7 +4,6 @@ remote:
     intensive:
       service:
         url: http://server-123.mybluemix.net
-		
 logging:
   level:
     com.example: ERROR
