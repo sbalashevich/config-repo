@@ -6,4 +6,4 @@ remote:
         url: http://server-123.mybluemix.net
 logging:
   level:
-    com.example: ERROR
+    com.example: DEBUG
