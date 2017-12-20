@@ -7,3 +7,6 @@ remote:
 logging:
   level:
     com.altoros: DEBUG
+
+node:
+  factorial: http://localhost:3001/
