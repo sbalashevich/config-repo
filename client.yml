@@ -10,3 +10,6 @@ logging:
 
 node:
   factorial: http://localhost:3001/
+
+test:
+  test: 1
